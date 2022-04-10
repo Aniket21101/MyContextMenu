@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/atx"
+        android:title="ATX"></item>
+    <item android:id="@+id/uatx"
+        android:title="Micro ATX"></item>
+    <item android:id="@+id/miniatx"
+        android:title="Mini ATX"></item>
+</menu>

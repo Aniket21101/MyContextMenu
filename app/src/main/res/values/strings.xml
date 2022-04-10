@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyContextMenu</string>
+    <string name="context_menu">Context Menu</string>
+    <string-array name="motherboards">
+        <item>Asus</item>
+        <item>Intel</item>
+        <item>Gigabyte</item>
+        <item>Asrock</item>
+        <item>MSI</item>
+    </string-array>
+</resources>
